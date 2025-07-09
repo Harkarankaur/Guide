@@ -19,7 +19,7 @@ prompt=ChatPromptTemplate.from_messages(
     ]
 )
 #streamlit
-st.title("Guide")
+st.title("Seretary")
 input_text=st.text_input("search the topic you want")
 #open ai llm call
 
